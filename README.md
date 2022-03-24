@@ -6,6 +6,8 @@ How to install and use
 -------
 * Pull repo from github
 	> git clone https://github.com/TiPiKej/friendly-solutions.git
+* Go into the directory
+	> cd friendly-solutions
 * Install dependencies
 	> npm i
 * Run db
